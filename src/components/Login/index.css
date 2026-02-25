@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+button {
+  background-color: #f8fafc;
+  color: #303150;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: transparent;
+}
